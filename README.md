@@ -4,3 +4,5 @@ This project analyze the data from a survey of adult American women and their ch
 - Data preparation
 - Exploratory Data Analysis
 - Linear regression models.
+
+The parallel_plot.html file contains the interactive parallel plot mentioned in the code. Additionally, the parallel_plot.png is a static version of it.
